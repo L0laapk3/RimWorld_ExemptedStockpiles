@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<SpecialThingFilterDef>
+		<defName>CountCompleted</defName>
+		<label>Bills count items in this stockpile</label>
+		<description>Bills will count items in this stockpile towards their output limit.</description>
+		<parentCategory>Root</parentCategory>
+		<allowedByDefault>true</allowedByDefault>
+		<saveKey>CountCompleted</saveKey>
+		<workerClass>ExemptedStockpiles.SpecialThingFilterWorker_CountCompleted</workerClass>
+	</SpecialThingFilterDef>
+
+	<SpecialThingFilterDef>
+		<defName>AllowDeadmansApparel</defName>
+		<label>allow deadman's apparel</label>
+		<parentCategory>Apparel</parentCategory>
+		<allowedByDefault>true</allowedByDefault>
+		<saveKey>allowDeadmansApparel</saveKey>
+		<workerClass>ExemptedStockpiles.SpecialThingFilterWorker_DeadmansApparel</workerClass>
+	</SpecialThingFilterDef>
+	
+</Defs>
+
+

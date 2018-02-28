@@ -17,6 +17,8 @@ Please create an issue on the [Issue Tracker](https://github.com/L0laapk3/RimWor
 
 ### Changelog
 ```
+B18v2 - 28/2/2018
+- Fixed the AllowDeadMansApparel filter
 B18v1 - 28/2/2018
 - Released
 ```

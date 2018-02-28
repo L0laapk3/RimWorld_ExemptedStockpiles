@@ -30,7 +30,7 @@ B18v1 - 28/2/2018
 - Activate the mod in RimWorld mod options.
 
 ### Credit
-fyarn for making [CookieCutter](https://ludeon.com/forums/index.php?topic=39038.0)
+fyarn for making [CookieCutter](https://ludeon.com/forums/index.php?topic=39038.0)  
 pardeike for making [Harmony](https://github.com/pardeike/Harmony)
 
 ### License

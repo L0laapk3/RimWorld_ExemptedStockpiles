@@ -29,7 +29,7 @@ B18v1 - 28/2/2018
 - Unzip the contents into your RimWorld/Mods folder.
 - Activate the mod in RimWorld mod options.
 
-### Credit
+### Credits
 fyarn for making [CookieCutter](https://ludeon.com/forums/index.php?topic=39038.0)  
 pardeike for making [Harmony](https://github.com/pardeike/Harmony)
 

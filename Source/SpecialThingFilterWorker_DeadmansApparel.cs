@@ -9,7 +9,7 @@ namespace ExemptedStockpiles
     {
         public override bool Matches(Thing t)
         {
-            return !base.Matches(t) || !base.CanEverMatch(t.def);
+            return !base.Matches(t) && base.CanEverMatch(t.def);
         }
     }
 }

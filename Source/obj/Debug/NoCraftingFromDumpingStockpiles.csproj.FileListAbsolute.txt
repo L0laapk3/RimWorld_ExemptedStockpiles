@@ -1,0 +1,4 @@
+D:\NIET illegaal\RimWorld.v0.18.1722\Mods\NoCraftingFromDumpingStockpiles\Assemblies\NoCraftingFromDumpingStockpiles.dll
+D:\NIET illegaal\RimWorld.v0.18.1722\Mods\NoCraftingFromDumpingStockpiles\Source\obj\Debug\NoCraftingFromDumpingStockpiles.csproj.CoreCompileInputs.cache
+D:\NIET illegaal\RimWorld.v0.18.1722\Mods\NoCraftingFromDumpingStockpiles\Source\obj\Debug\NoCraftingFromDumpingStockpiles.dll
+D:\NIET illegaal\RimWorld.v0.18.1722\Mods\NoCraftingFromDumpingStockpiles\Source\obj\Debug\NoCraftingFromDumpingStockpiles.csprojResolveAssemblyReference.cache

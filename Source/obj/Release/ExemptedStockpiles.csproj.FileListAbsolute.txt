@@ -1,0 +1,3 @@
+D:\NIET illegaal\RimWorld.v0.18.1722\Mods\ExemptedStockpiles - Release\Assemblies\NoCraftingFromDumpingStockpiles.dll
+D:\NIET illegaal\RimWorld.v0.18.1722\Mods\ExemptedStockpiles\Source\obj\Release\ExemptedStockpiles.csproj.CoreCompileInputs.cache
+D:\NIET illegaal\RimWorld.v0.18.1722\Mods\ExemptedStockpiles\Source\obj\Release\NoCraftingFromDumpingStockpiles.dll

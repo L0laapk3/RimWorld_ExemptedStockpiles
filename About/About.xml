@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Exempted Stockpiles - DEV</name>
+	<author>L0laapk3</author>
+	<targetVersion>0.18.1722</targetVersion>
+	<description>Adds an option for stockpiles to not count them towards bill output limits.
+    (This is the dev version of NoCraftingFromDumpingStockpiles. The release version of About.xml is available for editing at About/About-Release.xml. Edits made on this file or on the temporary About/About.xml won't show up on the release version. Use VisualStudio to build a "Release" version of this mod when ready to upload your mod!)</description>
+	<url>https://github.com/L0laapk3/RimWorld_ExemptedStockpiles/releases</url>
+</ModMetaData>
